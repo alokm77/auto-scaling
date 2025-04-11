@@ -16,7 +16,7 @@ sudo apt-get update -y
 sudo apt-get install -y ansible
 
 # Clone the GitHub repository
-sudo git clone https://github.com/salokm77/auto-scaling.git /myrepo
+sudo git clone https://github.com/alokm77/auto-scaling.git /myrepo
 
 echo "Provisioning completed successfully!"
 
